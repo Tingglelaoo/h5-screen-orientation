@@ -1,0 +1,22 @@
+{
+  "name": "h5-screen-orientation",
+  "version": "1.0.0",
+  "description": "Screen orientation for mobile web.",
+  "main": "./dist/index.js",
+  "scripts": {
+    "build": "parcel ./src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://"
+  },
+  "keywords": [
+    "screen",
+    "orientation"
+  ],
+  "author": "tingglelaoo",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^1.12.3"
+  }
+}
